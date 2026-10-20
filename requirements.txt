@@ -1,0 +1,5 @@
+# Python 3.11 or 3.12 required for MediaPipe legacy mp.solutions.pose
+streamlit>=1.45,<2
+mediapipe==0.10.21
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
